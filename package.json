@@ -7,6 +7,8 @@
   "author": "Yanjin Li <yanjinli502@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "postcss": "^8.4.41",
     "vitepress": "^1.3.2",
     "vue": "^3.4.38"
   },
