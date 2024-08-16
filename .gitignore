@@ -1,0 +1,10 @@
+# Folders
+node_modules/
+# Vitepress cache
+docs/.vitepress/cache/
+# Output directory
+docs/.vitepress/dist/
+
+# Files
+# yarn.lock
+package-lock.json
