@@ -11,10 +11,13 @@ hero:
     alt: raspberrypi
   actions:
     - theme: brand
-      text: 🍕 开始阅读
-      link: /markdown-examples
+      text: 🤔 什么是树莓派？
+      link: /guide/what
     - theme: alt
-      text: 🍺 Github
+      text: 🍕 开始阅读
+      link: /guide
+    - theme: alt
+      text: 🍺 GitHub
       link: https://github.com/LightYourJourney/raspberry-pi-tutorial
 
 features:
