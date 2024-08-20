@@ -406,6 +406,13 @@
   dependencies:
     "@types/hast" "^3.0.4"
 
+"@shikijs/core@1.14.1":
+  version "1.14.1"
+  resolved "https://registry.npmmirror.com/@shikijs/core/-/core-1.14.1.tgz#008f1c4a20ff83fd1672d9e31d76b687862f7511"
+  integrity sha512-KyHIIpKNaT20FtFPFjCQB5WVSTpLR/n+jQXhWHWVUMm9MaOaG9BGOG0MSyt7yA4+Lm+4c9rTc03tt3nYzeYSfw==
+  dependencies:
+    "@types/hast" "^3.0.4"
+
 "@shikijs/transformers@^1.10.3":
   version "1.13.0"
   resolved "https://registry.npmmirror.com/@shikijs/transformers/-/transformers-1.13.0.tgz#630296ff777b8e5bb0e11cc48a01b1877ca9dc47"
@@ -989,6 +996,14 @@ shiki@1.13.0, shiki@^1.10.3:
   integrity sha512-e0dWfnONbEv6xl7FJy3XIhsVHQ/65XHDZl92+6H9+4xWjfdo7pmkqG7Kg47KWtDiEtzM5Z+oEfb4vtRvoZ/X9w==
   dependencies:
     "@shikijs/core" "1.13.0"
+    "@types/hast" "^3.0.4"
+
+shiki@^1.14.1:
+  version "1.14.1"
+  resolved "https://registry.npmmirror.com/shiki/-/shiki-1.14.1.tgz#617e62dfbe3a083e46111e22086044fbd7644786"
+  integrity sha512-FujAN40NEejeXdzPt+3sZ3F2dx1U24BY2XTY01+MG8mbxCiA2XukXdcbyMyLAHJ/1AUUnQd1tZlvIjefWWEJeA==
+  dependencies:
+    "@shikijs/core" "1.14.1"
     "@types/hast" "^3.0.4"
 
 slick@^1.12.2:
