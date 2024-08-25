@@ -2,15 +2,15 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/raspberry-pi-tutorial/", // 设置站点子路径
+  // base: "/raspberry-pi-tutorial/", // 设置站点子路径
   title: "树莓派不完全指南", // 站点标题
   description: "从入门到入土", // 站点描述
   cleanUrls: true, // 是否去掉 .html 后缀
   head: [
-    ["link", { rel: "icon", href: "/raspberry-pi-tutorial/favicon.ico" }], // 引用你的 favicon 文件
+    ["link", { rel: "icon", href: "/favicon.ico" }], // 引用你的 favicon 文件
   ],
   sitemap: {
-    hostname: "https://lightyourjourney.github.io/raspberry-pi-tutorial/",
+    hostname: "https://pi.yanjinli.fun/",
   },
   markdown: {
     lineNumbers: true,
