@@ -5,11 +5,11 @@
   </a>
 </p>
 
-<h1 align="center"><strong>Raspberry Pi Tutorial</strong></h1>
+<h1 align="center"><strong>树莓派不完全指南</strong></h1>
 
 <div align="center">
 
-English | [简体中文](./README.zh-CN.md)
+[English](./README.md) | 简体中文
 
 </div>
 
@@ -76,22 +76,22 @@ English | [简体中文](./README.zh-CN.md)
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
-## Online Reading
+## 在线阅读
 
-This project is hosted on GitHub Pages and can be read online at [https://pi.yanjinli.fun/](https://pi.yanjinli.fun/).
+本项目托管在 GitHub Pages 上，可以通过 [https://pi.yanjinli.fun/](https://pi.yanjinli.fun/) 在线阅读。
 
-## Local Deployment
+## 本地部署
 
-First, ensure that [`Node.js`](https://nodejs.org/) and [`yarn`](https://yarnpkg.com/) are installed on your computer.
+首先确保你的电脑上已经安装了 [`Node.js`](https://nodejs.org/zh-cn) 和 [`yarn`](https://yarnpkg.com/)。
 
-Execute the following commands in the terminal. If the version numbers are output, it means you have successfully installed them:
+在终端中依次执行以下命令，若输出版本号，则说明你已成功安装：
 
 ```shell
 node -v
 yarn -v # npm -v / pnpm -v
 ```
 
-> This project uses `yarn` as the package manager, but you can also use [`npm`](https://www.npmjs.com/) or [`pnpm`](https://pnpm.io/).
+> 本项目使用 `yarn` 作为包管理器，你也可以使用 [`npm`](https://www.npmjs.com/) 或 [`pnpm`](https://pnpm.io/)。
 
 ```shell
 git clone https://github.com/LightYourJourney/raspberry-pi-tutorial.git
@@ -100,24 +100,24 @@ yarn install
 yarn docs:dev
 ```
 
-## Repo Status
+## 文档动态
 
 ![Repo Status](https://repobeats.axiom.co/api/embed/d88459e6f9f5ecc79739bd3c53c3b4bd577fa2e5.svg)
 
-## Contributing
+## 参与贡献
 
-Contributions to the content of the guide and the website source code are welcome, as are contributions to the upstream documents of this guide.
+欢迎对指南内容以及网站源码做出贡献，也欢迎对本指南的上游文档做出贡献。
 
-## License
+## 版权说明
 
-The documentation is availably free under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. For details, see [LICENSE](https://github.com/LightYourJourney/raspberry-pi-tutorial/blob/main/LICENSE).
+文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](https://github.com/LightYourJourney/raspberry-pi-tutorial/blob/main/LICENSE)。
 
-## Contributors
+## 贡献者
 
 <a href="https://github.com/LightYourJourney/raspberry-pi-tutorial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LightYourJourney/raspberry-pi-tutorial" alt="contributors"/>
 </a>
 
-## Stargazers over time
+## Star 历史
 
 [![Stargazers over time](https://starchart.cc/LightYourJourney/raspberry-pi-tutorial.svg?variant=adaptive)](https://starchart.cc/LightYourJourney/raspberry-pi-tutorial)
