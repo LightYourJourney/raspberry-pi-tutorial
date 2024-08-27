@@ -2,12 +2,12 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: "/raspberry-pi-tutorial/", // 设置站点子路径
+  // base: "/raspberry-pi-tutorial/",
   title: "树莓派不完全指南", // 站点标题
   description: "从入门到入土", // 站点描述
   cleanUrls: true, // 是否去掉 .html 后缀
   head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }], // 引用你的 favicon 文件
+    ["link", { rel: "icon", href: "/logo.svg" }], // 引用你的 favicon 文件
   ],
   sitemap: {
     hostname: "https://pi.yanjinli.fun/",
