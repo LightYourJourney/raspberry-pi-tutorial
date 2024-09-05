@@ -1,21 +1,55 @@
 {
-  "name": "raspberry-pi-tutorial",
-  "version": "1.0.0",
-  "description": "Everything you need to know about Raspberry Pi.",
-  "main": "index.js",
-  "repository": "https://github.com/LightYourJourney/raspberry-pi-tutorial.git",
   "author": "Yanjin Li <yanjinli502@gmail.com>",
-  "license": "MIT",
+  "description": "A Guide for Arch Linux",
   "devDependencies": {
+    "busuanzi.pure.js": "^1.0.3",
+    "husky": "^9.1.5",
     "markdown-it-mathjax3": "^4.3.2",
-    "postcss": "^8.4.42",
-    "shiki": "^1.15.2",
+    "medium-zoom": "^1.1.0",
+    "prettier": "^3.3.3",
     "vitepress": "^1.3.4",
-    "vue": "^3.4.38"
+    "vitepress-markdown-timeline": "^1.2.1",
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
+    "vitepress-plugin-google-analytics": "^1.0.2",
+    "vitepress-plugin-group-icons": "^1.1.0",
+    "vitepress-sidebar": "^1.25.3",
+    "vitepress-theme-website": "^1.0.8",
+    "vue": "^3.5.1"
   },
+  "keywords": [
+    "archlinux 指南",
+    "archlinux 教程",
+    "archlinux 安装",
+    "archlinux tutorial",
+    "archlinux guide",
+    "archlinux install",
+    "archlinux",
+    "Arch Linux",
+    "Linux",
+    "tutorial",
+    "guide",
+    "ebook"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
+  },
+  "main": "index.js",
+  "name": "arch-guide",
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  },
+  "repository": "https://github.com/nakanomikuorg/arch-guide",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
-  }
+    "docs:dev": "vitepress dev docs",
+    "docs:preview": "vitepress preview docs",
+    "update": "yarn upgrade --latest"
+  },
+  "version": "1.0.0",
+  "type": "module"
 }

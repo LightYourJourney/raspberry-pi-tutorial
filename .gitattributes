@@ -1,0 +1,4 @@
+# 设置所有文本文件使用 LF 作为行尾符
+* text=auto eol=lf
+
+*.md linguist-documentation=false linguist-detectable=true

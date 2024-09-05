@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <a href="https://pi.yanjinli.fun/">
-    <img alt="logo" src="./docs/public/images/og.png"/>
+    <img alt="logo" src="./docs/public/images/pi.png"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@ yarn docs:dev
 
 ## Repo Status
 
-![Repo Status](https://repobeats.axiom.co/api/embed/d88459e6f9f5ecc79739bd3c53c3b4bd577fa2e5.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/249f1051699537518d580cf67ef0f81d4519e9a2.svg)
 
 ## Contributing
 
