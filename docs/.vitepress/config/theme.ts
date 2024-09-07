@@ -1,4 +1,5 @@
 import type { DefaultTheme } from "vitepress/theme-without-fonts";
+// import algolia from "./algolia";
 import { LOGO as logo, REPO } from "./info";
 import nav from "./nav";
 import sidebar from "./sidebar";
@@ -43,7 +44,7 @@ const themeConfig: DefaultTheme.Config = {
   externalLinkIcon: true,
   outline: {
     label: "目录",
-    level: [1, 5],
+    level: [2, 6],
   },
   editLink: {
     pattern: `${REPO}/edit/main/docs/:path`,
