@@ -3,7 +3,7 @@
   "description": "A Guide for Arch Linux",
   "devDependencies": {
     "busuanzi.pure.js": "^1.0.3",
-    "husky": "^9.1.5",
+    "husky": "^9.1.6",
     "markdown-it-mathjax3": "^4.3.2",
     "medium-zoom": "^1.1.0",
     "prettier": "^3.3.3",
