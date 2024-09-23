@@ -1411,10 +1411,10 @@ vitepress-plugin-google-analytics@^1.0.2:
   resolved "https://registry.npmmirror.com/vitepress-plugin-google-analytics/-/vitepress-plugin-google-analytics-1.0.2.tgz#e037d3723284a896560fe7371c223c1f737ae13c"
   integrity sha512-ri8bFUAmt3c/DtPrALauGBIUr2gIJ11c1qNRhwd3/+aiuYZBfQpOosSxcO1AswgwRxP9FwBS6Z7jgdDVyXb2hA==
 
-vitepress-plugin-group-icons@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/vitepress-plugin-group-icons/-/vitepress-plugin-group-icons-1.2.3.tgz#75d64ace07b7ef19a197cd3941425567b4111ee7"
-  integrity sha512-Z2FGK/zubHFAE3luai2PYSyl247wIgAyj88EBNIe6DumJLz8Z+eFhLFwDafY/lfMnjwDDbrEl0aM5HWwg0Io/w==
+vitepress-plugin-group-icons@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/vitepress-plugin-group-icons/-/vitepress-plugin-group-icons-1.2.4.tgz#a9c59cc29ce46e24e420ea37754d8b7b1de6f17f"
+  integrity sha512-pxYzphvRy0Jhpgl3lHszH9Z8Qaj83v4bVr0b8Oi4zSIOQW/uuqGAZ8SaYwkZ1f/8a6ckIeIwZiLfLHA6ySCScQ==
   dependencies:
     "@iconify-json/logos" "^1.1.44"
     "@iconify-json/vscode-icons" "^1.2.0"
