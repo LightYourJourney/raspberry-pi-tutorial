@@ -14,7 +14,7 @@
     "vitepress-plugin-group-icons": "^1.2.3",
     "vitepress-sidebar": "^1.25.3",
     "vitepress-theme-website": "^1.0.8",
-    "vue": "^3.5.5"
+    "vue": "^3.5.8"
   },
   "keywords": [
     "archlinux 指南",
