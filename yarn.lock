@@ -1656,10 +1656,10 @@ vitepress-plugin-group-icons@^1.2.4:
     "@iconify-json/vscode-icons" "^1.2.0"
     "@iconify/utils" "^2.1.30"
 
-vitepress-sidebar@^1.27.0:
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.27.0.tgz#66bf9520dd7d79f8f5705f5a226b459464e3a9d9"
-  integrity sha512-12scZxd8XnV7KEWzj+0RnpUuKyuYC0o37sK8A8wHVy0EtqQf8L0vEkqWQ0QFLVBQwoSONdrbBjVD6/l05BgT7A==
+vitepress-sidebar@^1.27.1:
+  version "1.27.1"
+  resolved "https://registry.yarnpkg.com/vitepress-sidebar/-/vitepress-sidebar-1.27.1.tgz#5a38621a59a97d476916e98a788083ce9ce65252"
+  integrity sha512-MdqDp5urRfSzvRqck6SMJAWXt71L4ZRepe9myBSy5jI779t4/ZXnl09yew/xGvBvgUPupCaZyNCk+XLYj7Rciw==
   dependencies:
     glob "10.4.5"
     gray-matter "4.0.3"
