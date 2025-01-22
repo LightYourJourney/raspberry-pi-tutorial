@@ -1889,10 +1889,10 @@ vite@^5.4.10:
   optionalDependencies:
     fsevents "~2.3.3"
 
-vitepress-markdown-timeline@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.npmmirror.com/vitepress-markdown-timeline/-/vitepress-markdown-timeline-1.2.1.tgz#c61f708c1a3bce8ba137d8604b6d778a408d7131"
-  integrity sha512-XPYl/btTcTzW+XF20ITB51L8jPjbS72tSKPcv/CHJgM+3LbBvW8Az/X7RcBTJSXDNOwCY5mGkjA7CXQtuxOKgw==
+vitepress-markdown-timeline@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/vitepress-markdown-timeline/-/vitepress-markdown-timeline-1.2.2.tgz#5fd79331779e6b781c1a0bb5467f90f3c31fc2cf"
+  integrity sha512-eDFcvudmTW33pI7XdT+ZeUPvpc4CPXI0LZbsZZ54j36G56AN6qYEBiwZpDHl77E4QvqAIJMc8phXXvm7P/Lc+Q==
   dependencies:
     dayjs "^1.11.7"
 
