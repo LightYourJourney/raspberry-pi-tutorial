@@ -7,7 +7,7 @@
     "markdown-it-mathjax3": "^4.3.2",
     "medium-zoom": "^1.1.0",
     "prettier": "^3.4.2",
-    "vitepress": "^1.5.0",
+    "vitepress": "^1.6.3",
     "vitepress-markdown-timeline": "^1.2.2",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-google-analytics": "^1.0.2",
